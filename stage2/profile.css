@@ -1,0 +1,27 @@
+body{
+    background-color: #0e0e0e;
+}
+
+h1{
+    color: white;
+}
+
+hr{
+    color: thistle;
+}
+
+#netflix-logo{
+    width: 100px;
+}
+
+#avatar-logo{
+    width:100px;
+}
+
+h5{
+    color: aliceblue;
+}
+
+p{
+    color: aliceblue;
+}
